@@ -1,4 +1,4 @@
-# MBridge AI Token
+# MBridge AI Token (test v1.3)
 
 ## Overview
 MBridge AI Token (MBR) is an ERC-20 token with innovative BTC-backed borrowing capabilities and automated market stability mechanisms. The system maintains BTC reserves to provide collateralized lending while implementing controlled buyback strategies for price stability.
