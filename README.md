@@ -113,7 +113,7 @@ npx hardhat run scripts/deploy/deploy.ts --network mainnet
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-- Website: [(https://mbridge.ai](https://www.mbridgeconnect.com/))
+- mbridge@rickypark.com
 
 ## Acknowledgments
 - OpenZeppelin for secure contract implementations
